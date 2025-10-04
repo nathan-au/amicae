@@ -1,4 +1,4 @@
-# Amicae: Your Campus Connection Companion
+# amicae: Your Campus Connection Companion
 ![amicae_screens](https://github.com/user-attachments/assets/1ffe3b51-6304-4f81-8492-cc79dd47fdc3)
 
 ## Project Overview

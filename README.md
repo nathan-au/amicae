@@ -14,10 +14,10 @@ Amicae is a mobile application built with Flutter to help Concordia University s
 
 ## Technologies Used
 
-- **Flutter** – Cross-platform mobile framework for iOS and Android using Dart  
-- **Firebase** – Back-end services including authentication and real-time database  
-- **Vertex AI** – AI integration for personalized match suggestions
-- **Concordia Open Data API** – Source for campus events and information.  
+- **Flutter** - Cross-platform mobile framework for iOS and Android using Dart  
+- **Firebase** - Back-end services including authentication and real-time database  
+- **Vertex AI** - AI integration for personalized match suggestions
+- **Concordia Open Data API** - Source for campus events and information.  
 
 ## Demo Screenshots
 
